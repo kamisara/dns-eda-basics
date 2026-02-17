@@ -12,10 +12,27 @@ This is a **basic EDA project** created for a workshop assignment. It demonstrat
 - Basic statistical summaries
 - Data visualization fundamentals
 
-## 📁 Files
+## 📁 Repository Contents
 
-- `dns_eda_basics.ipynb` - Jupyter notebook with complete analysis
-- `visualizations/` - Generated plots and charts (if included)
+| File | Description |
+|:-----|:------------|
+| `dns_eda_basics.ipynb` | Jupyter notebook with complete Python analysis code |
+| `EDA_Report.pdf` | **Full PDF report** with detailed findings and visualizations |
+| `requirements.txt` | Python packages needed to run the notebook |
+| `visualizations/` | Generated plots and charts (if included) |
+
+## 📥 Download the Full Report
+
+The complete analysis is available as a professionally formatted PDF report:
+
+➡️ **[Click here to download EDA_Report.pdf](https://drive.google.com/file/d/1Iq-EpFtYtC6ajxDlfBBEvAdeuBcR9P1k/view?usp=drive_link)** ⬅️
+
+This report includes:
+- Executive summary of key findings
+- Detailed methodology explanation
+- All visualizations with interpretations
+- Statistical validation results
+- Actionable recommendations
 
 ## 🛠️ Tools Used
 
@@ -23,6 +40,7 @@ This is a **basic EDA project** created for a workshop assignment. It demonstrat
 - Pandas for data manipulation
 - Matplotlib & Seaborn for visualizations
 - NumPy for numerical operations
+- LaTeX for report generation (Overleaf)
 
 ## 📚 Dataset
 
@@ -38,7 +56,8 @@ This project serves as a **learning exercise** to practice core EDA techniques. 
 - Basic temporal pattern recognition
 - Simple statistical summaries
 - Fundamental data visualization techniques
+- Professional report writing with LaTeX
 
 ---
 
-*This is a beginner-level project focused on learning the basics of exploratory data analysis.*
+*This is a beginner-level project focused on learning the basics of exploratory data analysis. The complete PDF report documents all findings in a professional format.*
